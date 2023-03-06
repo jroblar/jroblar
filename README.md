@@ -18,7 +18,7 @@ I am a Ph.D. student passionate about research and solving problems by working t
 
 I've worked as a research technician at a research institute in my hometown (IPICyT). I developed air quality monitoring devices, analyzed data, and built IoT communication networks. In addition, I've been part of Harvard Medical School's Assitant Professor Yu Shrike Zhang research group, where I worked on Digital Light Processing 3D printers, tissue engineering, and biofabrication. You can see a full list of what I am up to on my webpage and [Reasearch Gate page](https://www.researchgate.net/profile/Juan-Robledo-Lara).  If you have any question or found value in something I have created, please feel free to send a message to my [personal email](mailto:jlara36@gatech.edu).
 
-Currently, I am a first-year Robotics Ph.D. student at Georgia Tech interested in researching topics related to collaborative robots, human-robot-interaction, and agricultural robotics.
+Currently, I am a first-year Robotics Ph.D. student at Georgia Tech interested in researching topics related to collaborative robots, human-robot-interaction.
 
 ## ✍️ Hobbies
 
