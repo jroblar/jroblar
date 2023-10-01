@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/52507430/185812677-173d9dfb-325e-458a-9925-cdaa648f294c.png" width="1010" >
 
      
-# Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
 <a href="linkedin.com/in/jarobledo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
@@ -14,11 +14,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-I am a Ph.D. student passionate about research and solving problems by working towards a meaningful goal. 
+I am a CS grad student at Georgia Tech interested in machine learning and robotics. 
 
 I've worked as a research technician at a research institute in my hometown (IPICyT). I developed air quality monitoring devices, analyzed data, and built IoT communication networks. In addition, I've been part of Harvard Medical School's Assitant Professor Yu Shrike Zhang research group, where I worked on Digital Light Processing 3D printers, tissue engineering, and biofabrication. You can see a full list of what I am up to on my webpage and [Reasearch Gate page](https://www.researchgate.net/profile/Juan-Robledo-Lara).  If you have any question or found value in something I have created, please feel free to send a message to my [personal email](mailto:jlara36@gatech.edu).
 
-Currently, I am a first-year Robotics Ph.D. student at Georgia Tech interested in researching topics related to collaborative robots, human-robot-interaction.
 
 ## ✍️ Hobbies
 
