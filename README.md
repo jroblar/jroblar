@@ -10,7 +10,7 @@ I am an MS in Computer Science student at Georgia Tech with a keen interest in m
 
 ## Projects
 * [Stretch 2 Manipulation Package](https://github.com/gt-rail-internal/rerail_stretchit_manipulation): A ROS package for autonomous manipulation using the Stretch 2 robot.
-* [Blue Stretch](https://github.com/JuanRobledo12/blue_stretch): An autonomous system developed in ROS to track objects in homes using then Stretch 2 robot to assist older adults in locating misplaced items.
+* [Blue Stretch](https://github.com/JuanRobledo12/blue_stretch): An autonomous system developed in ROS to track objects in homes using the Stretch 2 robot to assist older adults in locating misplaced items.
 * [3DOF DIY Robotic Arm](https://github.com/JuanRobledo12/karasu): A DIY robot arm controlled wirelessly using MQTT protocol, capable of moving the end effector to a desired position through inverse kinematics.
 
 ## Technologies & Tools
