@@ -3,8 +3,6 @@ JuanRobledo12/JuanRobledo12 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://user-images.githubusercontent.com/52507430/185812677-173d9dfb-325e-458a-9925-cdaa648f294c.png" width="1010" >
-
      
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
