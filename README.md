@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
      
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am an MS in Computer Science student at Georgia Tech with a keen interest in machine learning, data science, and robotics. To learn more about my experience, please visit my [website](https://juanrobledo12.github.io/).
+I am a Georgia Tech computer scientist with a keen interest in machine learning, data science, and robotics. To learn more about my experience, please visit my [website](https://juanrobledo12.github.io/).
 
 ## Projects
 * [Stretch 2 Manipulation Package](https://github.com/gt-rail-internal/rerail_stretchit_manipulation): A ROS package for autonomous manipulation using the Stretch 2 robot.
