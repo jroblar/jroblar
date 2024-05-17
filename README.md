@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 I am a Georgia Tech computer scientist with a keen interest in machine learning, data science, and robotics. To learn more about my experience, please visit my [website](https://juanrobledo12.github.io/).
 
 ## Projects
+* [Spotify Songs Mood Classifier](https://github.com/JuanRobledo12/cse6242-project): A Data Science project that aims to create a large, labeled dataset of songs categorized by mood using machine learning. This dataset can then be utilized for various applications, such as playlist generation.
+* [Simulated Annealing Algorithm ](https://github.com/JuanRobledo12/gatech-algorithms-project): This project involves a custom Python implementation of the Simulated Annealing algorithm to solve the 0/1 knapsack problem. The goal is to gain a better understanding of local search algorithms.
 * [Stretch 2 Manipulation Package](https://github.com/gt-rail-internal/rerail_stretchit_manipulation): A ROS package for autonomous manipulation using the Stretch 2 robot.
 * [Blue Stretch](https://github.com/JuanRobledo12/blue_stretch): An autonomous system developed in ROS to track objects in homes using the Stretch 2 robot to assist older adults in locating misplaced items.
 * [3DOF DIY Robotic Arm](https://github.com/JuanRobledo12/karasu): A DIY robot arm controlled wirelessly using MQTT protocol, capable of moving the end effector to a desired position through inverse kinematics.
