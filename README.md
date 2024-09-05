@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 I am a Georgia Tech computer scientist with a keen interest in machine learning, data science, and robotics. To learn more about my experience, please visit my [website](https://juanrobledo12.github.io/).
 
 ## Projects
-* [Spotify Songs Mood Classifier](https://github.com/JuanRobledo12/cse6242-project): A Data Science project that aims to create a large, labeled dataset of songs categorized by mood using machine learning. This dataset can then be utilized for various applications, such as playlist generation.
+* [Spotify Songs Mood Classifier](https://github.com/JuanRobledo12/cse6242-project): A Machine Learning project to train a classifier that is able to predict a song's mood based on audio features.
 * [Simulated Annealing Algorithm ](https://github.com/JuanRobledo12/gatech-algorithms-project): This project involves a custom Python implementation of the Simulated Annealing algorithm to solve the 0/1 knapsack problem. The goal is to gain a better understanding of local search algorithms.
 * [Diabetes Prediction Project](https://github.com/JuanRobledo12/gatech-ml-project): A Machine Learning project that aims to test different classification models to predict if a person has diabetes or not based on several health indicators.
 * [NBA Data Analysis](https://github.com/JuanRobledo12/datascience-foundations/tree/main/Codecademy_NBA_Trends_Project): In this project, we analyze NBA data from 538 and Basketball Reference to explore associations between teams, win rates, and playoff appearances.
