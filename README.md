@@ -5,11 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm **Juan Antonio Robledo Lara**, a **Senior Research Programmer** and **Data Scientist** at the Decision Science Center, Tecnológico de Monterrey.  
-I specialize in **machine learning, forecasting, system dynamics modeling, and large-scale socio-economic simulations** for **climate action and sustainable urban development**.  
+I am a Data Scientist with experience in building data pipelines, predictive models, and simulations that support decision-making. Skilled at applying statistical analysis, time-series forecasting, and machine learning to large-scale socio-economic and environmental datasets.
 
-I hold an **M.S. in Computer Science (Machine Learning)** from **Georgia Tech**, with a background in robotics, deep learning, and time-series modeling.  
-I am passionate about building **data-driven solutions** for real-world challenges.
+At Tecnológico de Monterrey’s Decision Science Center, I design modeling frameworks and analytical workflows that help evaluate complex policy and business challenges. My projects include developing forecasting pipelines (ARIMA, ETS), building surrogate ML models (XGBoost, Random Forest), and creating reproducible data systems that scale across countries and case studies.
 
 ---
 
